@@ -1,0 +1,4 @@
+workflow HelloWorld {
+    say "Hello from Nyravelle!"
+    say "My first AI workflow language."
+}
