@@ -1,0 +1,4 @@
+workflow Welcome {
+    input name: string
+    say "Welcome to Nyravelle!"
+}

@@ -1,0 +1,5 @@
+workflow DocumentReview {
+    input document: string
+    input reviewer: string
+    say "Review started."
+}
